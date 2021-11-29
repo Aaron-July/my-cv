@@ -1,0 +1,23 @@
+body {
+  Background-color: #eaf6f6;
+}
+
+h1 {
+ color: #66bfbf;
+}
+h3 {
+color: #66bfbf;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 5px;
+  width: 5%;
+}
+
+.profile-img {
+  height: 200px;
+  width: 200px;
+}
